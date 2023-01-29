@@ -1,0 +1,1 @@
+# hotelbooking-class-method
